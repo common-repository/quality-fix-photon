@@ -1,0 +1,1 @@
+Simply install and activate this plugin. You will see manjor increase in the quality of images served by Photon.
